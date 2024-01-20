@@ -59,12 +59,12 @@ const Footer = () => {
           <hr />
           <div>
             <p className="p-color">
-              Created with ❤️ by{" "}
+              Creado por akakixd <3
               <Link
-                href="https://github.com/preetsuthar17"
+                href="https://discord.gg/vFZgHChB
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Akaki Dev
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
