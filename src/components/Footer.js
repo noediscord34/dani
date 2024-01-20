@@ -61,7 +61,7 @@ const Footer = () => {
             <p className="p-color">
               Creado por Akaki
               <Link
-                href="https://discord.gg/vFZgHChB
+                href="https://discord.gg/vFZgHChB"
                 className="h-color no-decoration"
               >
                 Akaki Dev
